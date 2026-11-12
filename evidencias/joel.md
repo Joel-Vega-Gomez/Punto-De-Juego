@@ -5,7 +5,8 @@
 
 ## Requisitos:
 
-    Presentación: explicar quiénes somos, qué ofrecemos y dónde organizamos actividades, con la identidad de Punto de Juego.
+    Presentación: explicar quiénes somos, qué ofrecemos y dónde organizamos actividades,
+    con la identidad de Punto de Juego.
 	Actividades: mostrar juego, descripción, fecha, municipio, lugar, plazas y estado de encuentros y torneos.
 	Participantes: consultar y, en las fases correspondientes, gestionar las inscripciones.
 	Torneos: mostrar rondas y enfrentamientos presenciales, registrar resultados y calcular clasificaciones.
