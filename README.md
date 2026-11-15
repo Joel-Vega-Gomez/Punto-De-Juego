@@ -6,7 +6,6 @@
 
 Joel Vega Gomez
 Pol Cervera Cortés
-Zaid
 
 ## Estructura
 
