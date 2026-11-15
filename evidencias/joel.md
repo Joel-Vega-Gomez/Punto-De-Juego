@@ -22,7 +22,16 @@
 
 ## Procedimiento
 
-    1.1.3: Necesita Apache Server, para poder servir el HTML y CSS.
+    1.1.3: 
+	Necesita Apache Server, para poder servir el HTML y CSS.
+	
+	1.3.2: 
+	Se han creado 5 actividades distintas, el concepto base es llevar los juegos a la vida real, trata de aplicar mecanicas de los juegos a entornos y situaciones que se pueden encontrar en mataro. 
+
+	Estas actividades se coponen de un concepto inicial, algunas reglas y una frase caractersitica/promocional.
+
+	
+
 
 ## Configuraciones
 
