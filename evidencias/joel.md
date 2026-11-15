@@ -30,6 +30,10 @@
 
 	Estas actividades se coponen de un concepto inicial, algunas reglas y una frase caractersitica/promocional.
 
+	1.3.3 y 1.3.4:
+	Se Ha creado una paleta de colores basada en un color claro (blanco o cercanos), un color oscuro (gris oscuro o cercano) y un acento de color salmon.
+
+	Se han compartido y establecido todos los cambios y actualizaciones.
 	
 
 
