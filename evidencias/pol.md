@@ -18,6 +18,20 @@
 
     Creacion de las evidencias.
 
+
+	Punto Extra (Comandos usados):
+
+        sudo ln -s "/home/joel/Escritorio/Desplegament/AEA2/Punto-De-Juego/portal" "/var/www/html/portal" && sudo chmod o+x /home/joel /home/joel/Escritorio /home/joel/Escritorio/Desplegament /home/joel/Escritorio/Desplegament/AEA2 /home/joel/Escritorio/Desplegament/AEA2/Punto-De-Juego /home/joel/Escritorio/Desplegament/AEA2/Punto-De-Juego/portal && sudo chmod -R o+r "/home/joel/Escritorio/Desplegament/AEA2/Punto-De-Juego/portal"
+
+        systemctl status apache2 (lo que hace es mirar el proceso de apache en que estado esta ahora mismo)
+
+        systemctl start apache2 (enciende el servicio de apache temporalmente hasta que se apague el ordenador)
+
+        mv (para renombrar o mover cosas)
+
+        cp -r (para hacer copias recursivas sin afectar al origen)
+
+
 ## Configuraciones:
 
 
