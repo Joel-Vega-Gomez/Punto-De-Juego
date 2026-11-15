@@ -22,7 +22,7 @@
 
 ## Procedimiento
 
-    Creacion de las evidencias.
+    1.1.3: Necesita Apache Server, para poder servir el HTML y CSS.
 
 ## Configuraciones
 
