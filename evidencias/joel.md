@@ -82,7 +82,56 @@
 		Se puede revertir regenerando las carpetas pertenecientes a la URL introducida.
 
 	
-		
+	Encargo 2:
+
+	2.1.3: 
+		Recorre el array de actividades y le da contenido a los article del HTML.
+
+	2.1.4:
+		La sitribucion de tareas se hace en base a que cada uno se encarga de organizar el trbajo de un encargo si uno no.
+		Aunque trabajemos todos.
+
+		El criterio para integrar los cambios es completar un apartado. (Integrar como en hacer commit y push).
+
+	
+	2.2.1:
+		Apache 2.4.
+	2.2.3:
+		Hemos instalado PHP-FPM 
+			Version: 8.5.
+			Configuracion: /etc/php/8.5/fpm/pool.d/www.conf.
+			Punto de escucha: /run/php/php8.5-fpm.sock.
+	2.2.4:
+		No nos ha hecho falta configurar nada de esto.
+	2.2.5:
+		Hemos dejado las que vienen por defecto, el socket es el del punto 2.2.3.
+	2.2.6:
+		Los unicos cambios serian las instlaciones (cambios en el sistema) como tal dentro de las mismas aparte de parara y arrancar los servicios no ha habido cambios.
+	
+	2.3.2:
+		La forma de volver a la entrega estatica es el nav con links a todas las paginas.
+	2.3.4:
+		Se ha añadido una de las actividades de la pagina de actividades.
+	2.3.5:
+		Lo hemos hecho mediante pusheando todos los cambios y pulleando todos los cambios homogeneizando las versiones.
+
+
+
+		Entrega y explicacion individual:
+
+			4:
+				El usuario accede a un link, mandando asi una peticion al servidor Apache2.
+				El servidor Apache manda una peticion al servidor PHP que interpreta los archivos y devuelve HTML.
+				El servidor apache recibe la respuesta y coge el CSS, los junta y le devuelve el conjunto al usuario.
+
+			5:
+				Hay que hacer un link a la carpeta /var/www/html (apuntando a "tu-pryecto").
+				Dar permisos necesarios.
+				Tener PHP-8.3-FPM o superior.
+				Tener APACHE 2.4 o superior.
+				Tener todos los servicios en marcha y los archivos correspondientes.
+
+				Con ello ya podriamos reproducir el despliegue actual.
 
 ## Configuraciones
 
